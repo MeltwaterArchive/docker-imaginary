@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/meltwater/docker-imaginary.svg)](./LICENSE.txt)
 [![Docker Build Status](https://img.shields.io/docker/build/meltwater/imaginary.svg)](https://hub.docker.com/r/meltwater/imaginary/)
 
-Custom build of [imaginary].
+Custom Docker build of [imaginary].
 Runs as non-root user `imaginary`.
 
 [imaginary]: https://github.com/h2non/imaginary
